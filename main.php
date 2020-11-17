@@ -7,6 +7,8 @@
 </head>
 <body>
     <h1>Main page</h1>
-    <div class="footer"></div>
+    <div class="footer">
+        <div class="newdiv">Some text in my footer</div>
+    </div>
 </body>
 </html>
