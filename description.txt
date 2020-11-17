@@ -1,2 +1,4 @@
 There is some txt for initial commit and project information
 Behavior has been creating during git learning
+
+This description is only in "main" fork
